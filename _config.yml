@@ -1,0 +1,60 @@
+layout: sidebar
+style: dark
+
+plugins:
+  - jekyll-octicons
+  - jekyll-github-metadata
+  - jemoji
+
+permalink: /:year/:month/:day/:title/
+
+defaults:
+  -
+    scope:
+      path: "" # an empty string here means all files in the project
+      type: "posts"
+    values:
+      layout: "post"
+
+projects:
+  sort_by: pushed
+  # sort_by options:
+  #   - pushed
+  #   - stars
+  limit: 9
+  exclude:
+    archived: false
+    forks: true
+    projects:
+    # - repo-name
+
+social_media:
+  # behance: your_username
+  # dribbble: your_username
+  # facebook: your_username
+  hackerrank: somaditya
+  instagram: hardware.hacker
+  # keybase: your_username
+  linkedin: somadityabasak
+  # mastodon: your_username
+  medium: somaditya
+  stackoverflow: 8017984
+  # telegram: your_username
+  twitter: binary_hash
+  # unsplash: your_username
+  # vk: your_username
+  website: https://somaditya.gitlab.io
+  # youtube: your_username
+
+topics:
+  - name: Keras
+    web_url: https://keras.io/
+    image_url: https://avatars2.githubusercontent.com/u/34455048?s=200&v=4
+
+  - name: TensorFlow
+    web_url: https://github.com/topics/tensorflow
+    image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png
+
+  - name: PyTorch
+    web_url: https://github.com/pytorch/pytorch
+    image_url: https://pytorch.org/assets/images/pytorch-logo.png
