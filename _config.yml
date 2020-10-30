@@ -56,5 +56,5 @@ topics:
     image_url: https://avatars3.githubusercontent.com/u/6481734?s=200&v=4
 
   - name: Java
-    web_url: https://www.java.com/en/
-    image_url: https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/1200px-Java_programming_language_logo.svg.png
+    web_url: https://github.com/topics/java
+    image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png
