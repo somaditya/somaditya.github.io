@@ -47,14 +47,14 @@ social_media:
   # youtube: your_username
 
 topics:
-  - name: Keras
-    web_url: https://keras.io/
-    image_url: https://avatars2.githubusercontent.com/u/34455048?s=200&v=4
+  - name: Camunda BPM
+    web_url: https://github.com/camunda
+    image_url: https://avatars3.githubusercontent.com/u/2443838?s=200&v=4
 
-  - name: TensorFlow
-    web_url: https://github.com/topics/tensorflow
-    image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png
+  - name: BPMN
+    web_url: https://github.com/bpmn-io
+    image_url: https://avatars3.githubusercontent.com/u/6481734?s=200&v=4
 
-  - name: PyTorch
-    web_url: https://github.com/pytorch/pytorch
-    image_url: https://pytorch.org/assets/images/pytorch-logo.png
+  - name: Java
+    web_url: https://github.com/topics/java
+    image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png
