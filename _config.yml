@@ -18,7 +18,7 @@ navbar-links:
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  Author's home: "https://somaditya.github.io"
 
 # --- Logo --- #
 
@@ -46,7 +46,7 @@ social-network-links:
 #  patreon: DeanAttali
 #  youtube: c/daattali
 #  medium: yourname
-  reddit: somaditya
+#  reddit: somaditya
   linkedin: somadityabasak
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
