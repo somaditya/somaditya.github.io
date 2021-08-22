@@ -37,24 +37,24 @@ social_media:
   # keybase: your_username
   linkedin: somadityabasak
   # mastodon: your_username
-  # medium:
+  medium: somaditya
   # stackoverflow: 8017984
   telegram: somaditya_eth
   twitter: sb250c
   # unsplash: your_username
   # vk: your_username
-  website: https://app.ens.domains/name/somaditya.eth
+  website: https://somaditya.gitlab.io/
   # youtube: your_username
 
 topics:
-  - name: Ethereum
-    web_url: https://github.com/topics/ethereum
-    image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ethereum/ethereum.png
+  - name: Python
+    web_url: https://github.com/topics/python
+    image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png
 
-  - name: Blockchain
-    web_url: https://github.com/topics/blockchain
-    image_url: https://raw.githubusercontent.com/github/explore/66e4a32f59558ad7852fca3eee52b5838a5b3cc8/topics/blockchain/blockchain.png
+  - name: Java
+    web_url: https://github.com/topics/java
+    image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png
 
-  - name: Rust
-    web_url: https://github.com/topics/rust
-    image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rust/rust.png
+  - name: Data Structures
+    web_url: https://www.edx.org/professional-certificate/gtx-data-structures-and-algorithms
+    image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Binary_search_tree.svg/1024px-Binary_search_tree.svg.png
