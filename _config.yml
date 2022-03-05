@@ -47,14 +47,14 @@ social_media:
   # youtube: your_username
 
 topics:
-  - name: Python
-    web_url: https://github.com/topics/python
-    image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png
+  - name: Camunda
+    web_url: https://github.com/camunda
+    image_url: https://avatars.githubusercontent.com/u/2443838?s=200&v=4
 
-  - name: Java
-    web_url: https://github.com/topics/java
-    image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png
+  - name: JavaScript
+    web_url: https://github.com/topics/javascript
+    image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png
 
-  - name: Data Structures and Algorithms
-    web_url: https://www.edx.org/professional-certificate/gtx-data-structures-and-algorithms
-    image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Binary_search_tree.svg/1024px-Binary_search_tree.svg.png
+  - name: Node.js
+    web_url: https://github.com/topics/nodejs
+    image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png
