@@ -57,7 +57,7 @@ topics:
   
   - name: Angular
     web_url: https://angular.io/
-    image_url: https://twitter.com/angular/photo
+    image_url: https://angular.io/assets/images/logos/angular/angular.png
 
   - name: Node.js
     web_url: https://github.com/topics/nodejs
