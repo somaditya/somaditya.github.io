@@ -37,36 +37,24 @@ social_media:
   # keybase: your_username
   linkedin: somadityabasak
   # mastodon: your_username
-  medium: somaditya
-  # stackoverflow: 8017984
+  # medium: somaditya
+  stackoverflow: 8017984
   # telegram: somaditya_eth
-  twitter: somaditya_eth
+  twitter: sbk1337
   # unsplash: your_username
   # vk: your_username
   website: https://linktr.ee/somaditya
   # youtube: your_username
 
 topics:
-  - name: MongoDB
-    web_url: https://www.mongodb.com/
-    image_url: https://pbs.twimg.com/profile_images/1452637606559326217/GFz_P-5e_400x400.png
+  - name: Java
+    web_url: https://www.oracle.com/java/technologies/java-se-glance.html
+    image_url: https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png
   
-  - name: Express.js
-    web_url: https://expressjs.com/
-    image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png
+  - name: Data Structures
+    web_url: https://github.com/topics/data-structures
+    image_url: https://hackr.io/tutorials/data-structures-algorithms/logo-data-structures-algorithms.svg?ver=1587721467
   
-  - name: Angular
-    web_url: https://angular.io/
-    image_url: https://angular.io/assets/images/logos/angular/angular.png
-
-  - name: Node.js
-    web_url: https://github.com/topics/nodejs
-    image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png
-    
-  - name: JavaScript
-    web_url: https://github.com/topics/javascript
-    image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png
-    
-  - name: Camunda
-    web_url: https://github.com/camunda
-    image_url: https://avatars.githubusercontent.com/u/2443838?s=200&v=4
+  - name: Algorithms
+    web_url: https://github.com/topics/algorithms
+    image_url: https://icons.veryicon.com/png/o/miscellaneous/color-work-icon/algorithm.png
