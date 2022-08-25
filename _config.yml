@@ -26,7 +26,7 @@ projects:
     archived: true
     forks: true
     projects:
-    # - repo-name
+    repo-name: somaditya, somaditya.github.io
 
 social_media:
   # behance: your_username
