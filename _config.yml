@@ -49,7 +49,7 @@ social_media:
 topics:
   - name: Java
     web_url: https://www.oracle.com/java/technologies/java-se-glance.html
-    image_url: https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png
+    image_url: https://cdn-icons-png.flaticon.com/512/226/226777.png
   
   - name: Data Structures
     web_url: https://github.com/topics/data-structures
