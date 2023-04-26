@@ -1,3 +1,4 @@
+[![pages-build-deployment](https://github.com/somaditya/somaditya.github.io/actions/workflows/pages/pages-build-deployment/badge.svg?branch=master)](https://github.com/somaditya/somaditya.github.io/actions/workflows/pages/pages-build-deployment)
 # Get started building your personal website
 
 ### Showcase your software development skills
