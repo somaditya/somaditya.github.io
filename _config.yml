@@ -49,7 +49,7 @@ social_media:
 topics:
   - name: Rust
     web_url: https://www.rust-lang.org/
-    image_url: https://rustacean.net/assets/rustacean-flat-happy.svg
+    image_url: https://rustacean.net/assets/rustacean-orig-noshadow.svg
   
   - name: Data Structures
     web_url: https://github.com/topics/data-structures
