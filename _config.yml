@@ -47,9 +47,9 @@ social_media:
   # youtube: your_username
 
 topics:
-  - name: Java
-    web_url: https://www.oracle.com/java/
-    image_url: https://cdn-icons-png.flaticon.com/512/226/226777.png
+  - name: Rust
+    web_url: https://www.rust-lang.org/
+    image_url: https://rustacean.net/assets/rustacean-flat-happy.svg
   
   - name: Data Structures
     web_url: https://github.com/topics/data-structures
