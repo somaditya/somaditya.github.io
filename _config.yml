@@ -1,5 +1,5 @@
 layout: sidebar
-style: light
+style: dark
 
 plugins:
   - jekyll-octicons
@@ -23,10 +23,10 @@ projects:
   #   - stars
   limit: 9
   exclude:
-    archived: true
+    archived: false
     forks: true
     projects:
-    repo-name: somaditya, somaditya.github.io
+    repo-name: "somaditya", "somaditya.github.io"
 
 social_media:
   # behance: your_username
@@ -38,7 +38,7 @@ social_media:
   linkedin: somadityabasak
   # mastodon: your_username
   # medium: somaditya
-  stackoverflow: 8017984
+  # stackoverflow: 8017984
   # telegram: somaditya_eth
   twitter: sbk1337
   # unsplash: your_username
