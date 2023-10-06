@@ -9,8 +9,7 @@ plugins:
 permalink: /:year/:month/:day/:title/
 
 defaults:
-  -
-    scope:
+  - scope:
       path: "" # an empty string here means all files in the project
       type: "posts"
     values:
@@ -33,6 +32,7 @@ social_media:
   # dribbble: your_username
   # facebook: your_username
   hackerrank: somaditya
+  leetcode: somaditya
   # instagram: somaditya.eth
   # keybase: your_username
   linkedin: somadityabasak
@@ -40,7 +40,7 @@ social_media:
   # medium: somaditya
   # stackoverflow: 8017984
   # telegram: somaditya_eth
-  twitter: sbk1337
+  # twitter: sbk1337
   # unsplash: your_username
   # vk: your_username
   website: https://linktr.ee/somaditya
@@ -50,11 +50,11 @@ topics:
   - name: Rust
     web_url: https://www.rust-lang.org/
     image_url: https://rustacean.net/assets/rustacean-flat-noshadow.svg
-  
+
   - name: Data Structures
     web_url: https://github.com/topics/data-structures
     image_url: https://hackr.io/tutorials/data-structures-algorithms/logo-data-structures-algorithms.svg?ver=1587721467
-  
+
   - name: Algorithms
     web_url: https://github.com/topics/algorithms
     image_url: https://cdn-icons-png.flaticon.com/512/1822/1822206.png
