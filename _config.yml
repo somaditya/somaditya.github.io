@@ -47,9 +47,9 @@ social_media:
   # youtube: your_username
 
 topics:
-  - name: Rust
-    web_url: https://www.rust-lang.org/
-    image_url: https://rustacean.net/assets/rustacean-flat-noshadow.svg
+  - name: Go
+    web_url: https://go.dev/
+    image_url: https://go.dev/blog/go-brand/Go-Logo/PNG/Go-Logo_Blue.png
 
   - name: Data Structures
     web_url: https://github.com/topics/data-structures
