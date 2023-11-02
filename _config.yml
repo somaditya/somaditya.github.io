@@ -49,7 +49,7 @@ social_media:
 topics:
   - name: Go
     web_url: https://go.dev/
-    image_url: https://go.dev/blog/go-brand/Go-Logo/PNG/Go-Logo_Blue.png
+    image_url: https://commons.wikimedia.org/wiki/File:Go_Logo_Blue.svg
 
   - name: Data Structures
     web_url: https://github.com/topics/data-structures
