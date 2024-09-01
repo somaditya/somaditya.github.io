@@ -24,7 +24,7 @@ projects:
   exclude:
     archived: false
     forks: false
-    projects:
+    projects: somaditya.github.io
     repo-name: somaditya.github.io
 
 social_media:
