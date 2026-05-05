@@ -49,7 +49,7 @@ social_media:
 topics:
   - name: Java
     web_url: https://www.java.com/en/
-    image_url: https://en.wikipedia.org/wiki/Java_(programming_language)#/media/File:Java_programming_language_logo.svg
+    image_url: https://cdn-icons-png.flaticon.com/128/226/226777.png
 
   - name: Data Structures
     web_url: https://github.com/topics/data-structures
