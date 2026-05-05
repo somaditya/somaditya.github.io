@@ -47,13 +47,13 @@ social_media:
   # youtube: your_username
 
 topics:
-  - name: Go
-    web_url: https://go.dev/
-    image_url: https://avatars.githubusercontent.com/u/4314092?s=200&v=4
+  - name: Java
+    web_url: https://www.java.com/en/
+    image_url: https://en.wikipedia.org/wiki/Java_(programming_language)#/media/File:Java_programming_language_logo.svg
 
   - name: Data Structures
     web_url: https://github.com/topics/data-structures
-    image_url: https://hackr.io/tutorials/data-structures-algorithms/logo-data-structures-algorithms.svg?ver=1587721467
+    image_url: https://cdn-icons-png.flaticon.com/512/1042/1042009.png
 
   - name: Algorithms
     web_url: https://github.com/topics/algorithms
