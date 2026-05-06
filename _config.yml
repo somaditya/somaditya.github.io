@@ -47,9 +47,9 @@ social_media:
   # youtube: your_username
 
 topics:
-  - name: Java
-    web_url: https://www.java.com/en/
-    image_url: https://cdn-icons-png.flaticon.com/128/226/226777.png
+  - name: Agentic AI
+    web_url: https://en.wikipedia.org/wiki/AI_agent
+    image_url: https://cdn-icons-png.flaticon.com/512/6134/6134346.png
 
   - name: Data Structures
     web_url: https://github.com/topics/data-structures
