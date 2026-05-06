@@ -20,7 +20,7 @@ projects:
   # sort_by options:
   #   - pushed
   #   - stars
-  limit: 9
+  limit: 6
   exclude:
     archived: false
     forks: false
@@ -40,7 +40,7 @@ social_media:
   # medium: somaditya
   # stackoverflow: 8017984
   # telegram: somaditya_eth
-  # twitter: sbk1337
+  twitter: 5n0w_cr45h
   # unsplash: your_username
   # vk: your_username
   website: https://linktr.ee/somaditya
