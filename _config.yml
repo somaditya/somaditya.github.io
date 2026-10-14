@@ -10,10 +10,10 @@
 ############################
 
 # Name of website
-title: My website
+title: Somaditya Basak
 
 # Your name to show in the footer
-author: Some Person
+author: Somaditya Basak
 
 ###############################################
 # --- List of links in the navigation bar --- #
@@ -24,7 +24,7 @@ navbar-links:
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  Author's home: "https://somaditya.com"
 
 ################
 # --- Logo --- #
@@ -50,24 +50,24 @@ round-avatar: true
 # You can change the order that they show up on the page by changing the order here.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "someone@example.com"
-  rss: true  # remove this line if you don't want to show an RSS link at the bottom
-  facebook: deanattali
-  github: daattali
-  twitter: daattali
-  patreon: DeanAttali
-  youtube: "@daattali"
-  whatsapp: 15551212
+  email: "som[AT]gatech[DOT]edu"
+  # rss: true  # remove this line if you don't want to show an RSS link at the bottom
+  # facebook: deanattali
+  github: somaditya
+  twitter: 5n0w_cr45h
+  # patreon: DeanAttali
+  # youtube: "@daattali"
+  whatsapp: (+91)8240153060
 #  medium: yourname
 #  reddit: yourname or r/yoursubreddit
-#  linkedin: daattali
+  linkedin: somadityabasak
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
 #  instagram: deanat78
 #  spotify: yourname
-#  telephone: +14159998888
-#  steam: deanat78
+  telephone: (+91)8240153060
+  steam: somaditya1337
 #  twitch: yourname
 #  yelp: yourname
 #  telegram: yourname
@@ -78,7 +78,7 @@ social-network-links:
 #  google-scholar: your google scholar
 #  discord: "invite_code" or "users/userid" or "invite/invite_code"
 #  kaggle: yourname
-#  hackerrank: yourname
+  hackerrank: somaditya
 #  gitlab: yourname
 #  itchio: yourname
 #  untappd: yourname
@@ -95,14 +95,14 @@ rss-description: This website is a virtual proof that I'm awesome
 # Select which social network share links to show in posts
 share-links-active:
   twitter: true
-  facebook: true
+  facebook: false
   linkedin: true
   vk: false
   reddit: false
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "MyWebsite.com"
+url-pretty: "somaditya.com"
 
 # Add the website title to the title of every page
 title-on-all-pages: true
@@ -260,7 +260,7 @@ date_format: "%B %-d, %Y"
 #################################################################################
 
 # Output options (more information on Jekyll's site)
-timezone: "America/Toronto"
+timezone: "Asia/Kolkata"
 markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
