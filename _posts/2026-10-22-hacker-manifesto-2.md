@@ -26,24 +26,27 @@ I am a hacker[^definition] and this is my manifesto.
 
 (Inspired by the original "[The Conscience of a Hacker](https://phrack.org/issues/7/hackers-manifesto)" published on _phrack_ in 1986)
 
-[^definition]: hacker /n./
+[^definition]:
+    **Definition of a Hacker:**  
+    (from the Jargon File 4.0.0)  
+    **hacker** /n./
 
-1. A person who enjoys exploring the details of programmable systems and how to stretch their capabilities, as opposed to most users, who prefer to learn only the minimum necessary.
+    1. A person who enjoys exploring the details of programmable systems and how to stretch their capabilities, as opposed to most users, who prefer to learn only the minimum necessary.
 
-2. One who programs enthusiastically (even obsessively) or who enjoys programming rather than just theorizing about programming.
+    2. One who programs enthusiastically (even obsessively) or who enjoys programming rather than just theorizing about programming.
 
-3. A person capable of appreciating hack value.
+    3. A person capable of appreciating hack value.
 
-4. A person who is good at programming quickly.
+    4. A person who is good at programming quickly.
 
-5. An expert at a particular program, or one who frequently does work using it or on it; as in "a Unix hacker".
+    5. An expert at a particular program, or one who frequently does work using it or on it; as in "a Unix hacker".
 
-(Definitions 1 through 5 are correlated, and people who fit them congregate.)
+    (Definitions 1 through 5 are correlated, and people who fit them congregate.)
 
-6. An expert or enthusiast of any kind. One might be an astronomy hacker, for example.
+    6. An expert or enthusiast of any kind. One might be an astronomy hacker, for example.
 
-7. One who enjoys the intellectual challenge of creatively overcoming or circumventing limitations.
+    7. One who enjoys the intellectual challenge of creatively overcoming or circumventing limitations.
 
-8. [deprecated] A malicious meddler who tries to discover sensitive information by poking around. Hence "password hacker", "network hacker". The correct term for this sense is cracker.
+    8. [deprecated] A malicious meddler who tries to discover sensitive information by poking around. Hence "password hacker", "network hacker". The correct term for this sense is cracker.
 
-Note that the media have a disturbing tendency to use the deprecated sense 8. When I use the word to refer to people, I'm using the other senses...
+    Note that the media have a disturbing tendency to use the deprecated sense 8. When I use the word to refer to people, I'm using the other senses...
