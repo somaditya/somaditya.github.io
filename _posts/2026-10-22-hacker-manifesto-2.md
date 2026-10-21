@@ -6,17 +6,17 @@ comments: false
 author: 5n0w_cr45h
 ---
 
-It happened one night, a portal opened to a whole new world...
-
+It happened one night, a portal opened to a whole new world...  
+![fiberoptic](/assets/img/Fiber_Optical_Cable.jpg){: .mx-auto.d-block :}
 Streaming through the optical fibres like amphetamines through an addict’s nerves,  
-a digital pulse was transmitted over a router and a refuge from our hopeless existence was found at last.
-
-This is it... this is where we belong... a parallel universe composed of circuits and chips.  
-The breath-taking poetry hidden underneath the code.
-
+a digital pulse was transmitted over a router and a refuge from our hopeless existence was found at last.  
+![wireshark](/assets/img/Wireshark_3.6_screenshot.png){: .mx-auto.d-block :}
+This is it... this is where we belong. A parallel universe composed of circuits and chips.  
+The breath-taking poetry hidden underneath the code.  
+![assembly](/assets/img/assembly.png){: .mx-auto.d-block :}
 The conformist crowd never acknowledged our divergence.  
-We fought and we suffered but never did our tribe surrender on this limitless path.
-
+We fought and we suffered but never did our tribe surrender on this limitless path.  
+![assembly](/assets/img/assembly.png){: .mx-auto.d-block :}
 They could stop a few of us but they could not stop us all.
 
 Yes, I am a criminal.  
