@@ -22,11 +22,11 @@ They could stop a few of us but they could not stop us all.
 Yes, I am a criminal.  
 My crime is that of curiosity.
 
-I am a hacker[^definition] and this is my manifesto.
+I am a hacker and this is my manifesto.[^1]
 
 (Inspired by the original "[The Conscience of a Hacker](https://phrack.org/issues/7/hackers-manifesto)" published on _phrack_ in 1986)
 
-[^definition]:
+[^1]:
     **Definition of a Hacker:**  
     (from the Jargon File 4.0.0)  
     **hacker** /n./
