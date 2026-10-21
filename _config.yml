@@ -13,7 +13,7 @@
 title: Somaditya Basak
 
 # Your name to show in the footer
-author: Somaditya Basak
+author: © 2026 Somaditya Basak
 
 ###############################################
 # --- List of links in the navigation bar --- #
@@ -24,7 +24,7 @@ navbar-links:
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://somaditya.com"
+  Author's home: "https://www.somaditya.com"
 
 ################
 # --- Logo --- #
@@ -51,23 +51,23 @@ round-avatar: true
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
   email: "som[AT]gatech[DOT]edu"
-  # rss: true  # remove this line if you don't want to show an RSS link at the bottom
-  # facebook: deanattali
+  rss: true  # remove this line if you don't want to show an RSS link at the bottom
+# facebook: deanattali
   github: somaditya
   twitter: 5n0w_cr45h
-  # patreon: DeanAttali
-  # youtube: "@daattali"
-  whatsapp: (+91)8240153060
-#  medium: yourname
-#  reddit: yourname or r/yoursubreddit
+# patreon: DeanAttali
+# youtube: "@daattali"
+# whatsapp: (+91)8240153060
+# medium: yourname
+# reddit: yourname or r/yoursubreddit
   linkedin: somadityabasak
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
 #  instagram: deanat78
 #  spotify: yourname
-  telephone: (+91)8240153060
-  steam: somaditya1337
+#  telephone: (+91)8240153060
+#  steam: somaditya1337
 #  twitch: yourname
 #  yelp: yourname
 #  telegram: yourname
@@ -86,7 +86,7 @@ social-network-links:
 
 # If you want your website to generate an RSS feed, provide a description
 # The URL for the feed will be https://<your_website>/feed.xml
-rss-description: This website is a virtual proof that I'm awesome
+rss-description: Somaditya Basak RSS Feed
 
 ###########################
 # --- General options --- #
@@ -102,7 +102,7 @@ share-links-active:
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "somaditya.com"
+url-pretty: "Somaditya Basak"
 
 # Add the website title to the title of every page
 title-on-all-pages: true
