@@ -23,6 +23,6 @@ What I bring: a combination of hands-on software engineering experience, systems
 
 ### Contact me
 
-[Email](mailto:som[AT]gatech[DOT]edu
-[LinkedIn](https://www.linkedin.com/in/somadityabasak/)
-[X](https://x.com/5n0w_cr45h)
+[Email](mailto:som@gatech.edu)  
+[LinkedIn](https://www.linkedin.com/in/somadityabasak/)  
+[X](https://x.com/5n0w_cr45h)  
