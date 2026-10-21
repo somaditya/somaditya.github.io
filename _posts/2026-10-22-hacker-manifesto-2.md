@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Hacker's Manifesto
+title: Hacker's Manifesto 2.0
 subtitle: The Conscience of a Hacker
 comments: false
 author: 5n0w_cr45h
@@ -22,7 +22,7 @@ They could stop a few of us but they could not stop us all.
 Yes, I am a criminal.  
 My crime is that of curiosity.
 
-I am a hacker and this is my manifesto.[^1]
+I am a hacker[^1] and this is my manifesto.
 
 (Inspired by the original "[The Conscience of a Hacker](https://phrack.org/issues/7/hackers-manifesto)" published on _phrack_ in 1986)
 
