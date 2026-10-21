@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Why you'd want to work with me
 ---
 
 I’m a software engineer with 10+ years of experience building backend, automation, data, and network-operations software—and today I apply that engineering foundation to agentic AI and software engineering research.
