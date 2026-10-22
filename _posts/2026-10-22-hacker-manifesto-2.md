@@ -10,13 +10,11 @@ It happened one night, a portal opened to a whole new world...
 
 ![fiberoptic](/assets/img/Fiber_Optical_Cable.jpg){: .mx-auto.d-block :}
 
-Streaming through the optical fibres like amphetamines pulsing an addict’s nerves,  
-a digital signal was transmitted over a router,  
-and a refuge from our hopeless existence was found at last.
+Streaming through the optical fibres like amphetamines pulsating an addict’s nerves, a digital signal was transmitted over a router, and a refuge from our hopeless existence was found at last.
 
 ![wireshark](/assets/img/wireshark.png){: .mx-auto.d-block :}
 
-This is it, this is where we belong. A parallel universe composed of circuits and chips.
+This is it, this is where we belong. An parallel universe composed of circuits and chips.
 
 ![circuit](/assets/img/circuit.png){: .mx-auto.d-block :}
 
@@ -24,19 +22,24 @@ The breath-taking poetry hidden underneath the code.
 
 ![assembly](/assets/img/assembly.png){: .mx-auto.d-block :}
 
-The conformist crowd never acknowledged our divergence.
-We fought and we suffered but never did our tribe surrender on this limitless path.
+The conformist crowd never acknowledged our divergence. We fought and we suffered but never did our tribe surrender on this limitless path.
 
 ![graph](/assets/img/graph.png){: .mx-auto.d-block :}
 
 They could stop a few of us but they could not stop us all.
 
+![aaron](/assets/img/aaron.jpg){: .mx-auto.d-block :}
+
 Yes, I am a criminal.  
 My crime is that of curiosity.
 
+![anonymous](/assets/img/anonymous.jpg){: .mx-auto.d-block :}
+
 I am a hacker[^1] and this is my manifesto.
 
-(Inspired by the original "[The Conscience of a Hacker](https://phrack.org/issues/7/hackers-manifesto)" published on _phrack_ in 1986)
+> Inspired by the original "[The Conscience of a Hacker](https://phrack.org/issues/7/hackers-manifesto)" published on _phrack_ in 1986.
+
+---
 
 [^1]:
     **Definition of a Hacker:**  
