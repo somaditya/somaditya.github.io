@@ -43,7 +43,7 @@ I am a hacker[^hacker-definition] and this is my manifesto.
 
 [^hacker-definition]:
     **Definition of a Hacker:**  
-    (from the Jargon File 4.0.0)  
+    (from the [Jargon File 4.0.0](https://www.gutenberg.org/ebooks/817))  
     **hacker** /n./
 
     1. A person who enjoys exploring the details of programmable systems and how to stretch their capabilities, as opposed to most users, who prefer to learn only the minimum necessary.
