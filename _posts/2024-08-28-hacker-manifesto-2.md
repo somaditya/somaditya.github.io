@@ -44,8 +44,8 @@ I am a hacker[^2] and this is my manifesto.
 [^1]: [Farewell to Aaron Swartz, an Extraordinary Hacker and Activist &#124; Electronic Frontier Foundation](https://www.eff.org/deeplinks/2013/01/farewell-aaron-swartz)
 
 [^2]:
-    From the [Jargon File (version 4.4.7)](http://www.catb.org/jargon/html/index.html):
-    **hacker** /n./
+    From the [Jargon File (version 4.4.7)](http://www.catb.org/jargon/html/index.html):  
+    **hacker** n. 
     A person who enjoys exploring the details of programmable systems and how to stretch their capabilities, as opposed to most users, who prefer to learn only the minimum necessary.
 
     A person who delights in having an intimate understanding of the internal workings of a system, computers and computer networks in particular.
