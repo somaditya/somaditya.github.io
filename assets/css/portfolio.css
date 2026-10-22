@@ -36,6 +36,13 @@
   gap: 1.25rem;
 }
 
+.portfolio-status {
+  grid-column: 1 / -1;
+  margin: 0;
+  color: var(--mid-col);
+  text-align: center;
+}
+
 .portfolio-card {
   display: flex;
   min-height: 17rem;

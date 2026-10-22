@@ -5,6 +5,8 @@ subtitle: Open-sourced repositories, ranked by commits.
 full-width: true
 css:
   - "/assets/css/portfolio.css"
+js:
+  - "/assets/js/github-portfolio.js"
 ---
 
 <section class="portfolio-shell" aria-labelledby="portfolio-heading">
@@ -13,11 +15,16 @@ css:
     <h1 id="portfolio-heading">Selected projects</h1>
     <p>
       Explore my most committed public GitHub projects. Repository stats refresh
-      automatically whenever this site is built.
+      automatically when the portfolio page loads or the site is built.
     </p>
   </header>
 
-  <div class="portfolio-grid" aria-label="Top GitHub projects">
+  <div
+    class="portfolio-grid"
+    id="portfolio-projects"
+    data-github-user="{{ site.social-network-links.github | escape }}"
+    aria-label="Top GitHub projects"
+  >
     {% for project in site.github_projects limit:9 %}
     <a
       class="portfolio-card"
@@ -59,7 +66,7 @@ css:
       </dl>
     </a>
     {% else %}
-    <p>No public projects were found.</p>
+    <p class="portfolio-status" data-portfolio-status role="status">Loading projects from GitHub...</p>
     {% endfor %}
   </div>
 
@@ -71,6 +78,6 @@ css:
       rel="noopener noreferrer"
       >GitHub</a
     >
-    at build time. Commit totals cover each repository's default branch.
+    at build time or when this page loads. Commit totals cover each repository's default branch.
   </p>
 </section>
