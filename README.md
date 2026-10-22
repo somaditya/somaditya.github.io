@@ -1,9 +1,9 @@
-# [somaditya.com](https://somaditya.com/)
+# somaditya.com
 
 [![Gem Version](https://badge.fury.io/rb/beautiful-jekyll-theme.svg)](https://badge.fury.io/rb/beautiful-jekyll-theme)
 [![Beautiful Jekyll CI](https://github.com/somaditya/somaditya.github.io/actions/workflows/ci.yml/badge.svg)](https://github.com/somaditya/somaditya.github.io/actions/workflows/ci.yml)
 
-> [Live](https://somaditya.com/)
+> [Live Site](https://somaditya.com/)
 
 ## Table of contents
 
