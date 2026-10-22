@@ -143,26 +143,25 @@ let BeautifulJekyllJS = {
   },
 
   initThemeToggle : function() {
-    const toggle = document.getElementById("theme-toggle");
+    const toggle = document.getElementById("change-skin");
     if (!toggle) {
       return;
     }
 
-    const setTheme = function(theme) {
-      const isDark = theme === "dark";
-      document.documentElement.dataset.theme = isDark ? "dark" : "light";
+    const setTheme = function(isDark) {
+      document.documentElement.classList.toggle("page-dark-mode", isDark);
       toggle.setAttribute("aria-pressed", isDark.toString());
-      toggle.setAttribute("aria-label", isDark ? "Switch to light mode" : "Switch to dark mode");
     };
 
-    setTheme(document.documentElement.dataset.theme);
+    setTheme(document.documentElement.classList.contains("page-dark-mode"));
 
     toggle.addEventListener("click", function() {
-      const theme = document.documentElement.dataset.theme === "dark" ? "light" : "dark";
-      setTheme(theme);
+      const isDark = !document.documentElement.classList.contains("page-dark-mode");
+      setTheme(isDark);
       try {
-        localStorage.setItem("site-theme", theme);
+        localStorage.setItem("site-theme", isDark ? "dark" : "light");
       } catch (error) {}
+      BeautifulJekyllJS.initNavbar();
     });
   }
 };

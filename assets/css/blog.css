@@ -63,11 +63,11 @@
   color: var(--page-col);
 }
 
-:root[data-theme="dark"] .blog-archive {
+.page-dark-mode .blog-archive {
   border-left-color: #3b3c42;
 }
 
-:root[data-theme="dark"] .blog-archive-list li {
+.page-dark-mode .blog-archive-list li {
   border-bottom-color: #3b3c42;
 }
 
