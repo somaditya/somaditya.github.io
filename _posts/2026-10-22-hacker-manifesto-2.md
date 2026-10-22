@@ -22,7 +22,7 @@ The breath-taking poetry hidden underneath the code.
 
 ![assembly](/assets/img/assembly.png){: .mx-auto.d-block :}
 
-The conformist crowd never accepted our divergence. We fought and we suffered, but never did our tribe surrender on this limitless path.
+The conformist crowd could never accept our divergence. We fought and we suffered, but never did our tribe surrender on this limitless path.
 
 ![graph](/assets/img/graph.png){: .mx-auto.d-block :}
 
