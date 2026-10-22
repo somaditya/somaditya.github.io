@@ -8,13 +8,13 @@ author: 5n0w_cr45h
 
 It happened one night, a portal opened to a whole new world...
 
-![fiberoptic](/assets/img/Fiber_Optical_Cable.jpg){: .mx-auto.d-block :}
+![fiberoptic](/assets/img/fiberopt.png){: .mx-auto.d-block :}
 
-Streaming through the optical fibres like amphetamines pulsating an addict’s nerves, a digital signal was transmitted over a router, and a refuge from our hopeless existence was found at last.
+Streaming through the optical fibres like amphetamines pulsating an addict’s nerves, a binary signal was transmitted over a router, and a refuge from our hopeless existence was found at last.
 
 ![wireshark](/assets/img/wireshark.png){: .mx-auto.d-block :}
 
-This is it, this is where we belong. An parallel universe composed of circuits and chips.
+This is it, this is where we belong. A parallel universe composed of circuits and chips.
 
 ![circuit](/assets/img/circuit.png){: .mx-auto.d-block :}
 
@@ -22,7 +22,7 @@ The breath-taking poetry hidden underneath the code.
 
 ![assembly](/assets/img/assembly.png){: .mx-auto.d-block :}
 
-The conformist crowd never acknowledged our divergence. We fought and we suffered but never did our tribe surrender on this limitless path.
+The conformist crowd never accepted our divergence. We fought and we suffered but never did our tribe surrender on this limitless path.
 
 ![graph](/assets/img/graph.png){: .mx-auto.d-block :}
 
