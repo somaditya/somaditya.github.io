@@ -937,6 +937,10 @@ pre {
   .navbar .navbar-collapse {
     margin-right: 2.3rem;
   }
+
+  .navbar-custom .navbar-nav .nav-item:not(.dropdown):last-child .nav-link {
+    padding-right: 1rem;
+  }
 }
 
 @media (max-width: 1199px) {
