@@ -66,4 +66,4 @@ I am a hacker[^1] and this is my manifesto.
 
     Note that the media have a disturbing tendency to use the deprecated sense 8. When I use the word to refer to people, I'm using the other senses...
 
-[^2]: [Farewell to Aaron Swartz, an Extraordinary Hacker and Activist](https://www.eff.org/deeplinks/2013/01/farewell-aaron-swartz)
+[^2]: [Farewell to Aaron Swartz, an Extraordinary Hacker and Activist | Electronic Frontier Foundation](https://www.eff.org/deeplinks/2013/01/farewell-aaron-swartz)
