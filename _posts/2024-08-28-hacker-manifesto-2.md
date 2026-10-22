@@ -26,7 +26,7 @@ The conformist crowd could never accept our divergence. We fought and we suffere
 
 ![graph](/assets/img/graph.png){: .mx-auto.d-block :}
 
-They could stop a few of us but they could not stop us all.
+They could stop a few of us but they could not stop us all.[^2]
 
 ![aaron](/assets/img/aaron.jpg){: .mx-auto.d-block :}
 
@@ -65,3 +65,5 @@ I am a hacker[^1] and this is my manifesto.
     8. [deprecated] A malicious meddler who tries to discover sensitive information by poking around. Hence "password hacker", "network hacker". The correct term for this sense is cracker.
 
     Note that the media have a disturbing tendency to use the deprecated sense 8. When I use the word to refer to people, I'm using the other senses...
+
+[^2]: [Farewell to Aaron Swartz, an Extraordinary Hacker and Activist](https://www.eff.org/deeplinks/2013/01/farewell-aaron-swartz)
