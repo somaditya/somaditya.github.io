@@ -7,5 +7,5 @@ date: 2026-10-22
 comments: false
 permalink: /
 ---
-{% assign manifesto = site.posts | where: "title", "Hacker's Manifesto 2.0" | first %}
+{% assign manifesto = site.posts | where: "path", "_posts/2026-10-22-hacker-manifesto-2.md" | first %}
 {{- manifesto.content -}}

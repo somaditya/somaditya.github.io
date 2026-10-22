@@ -12,6 +12,12 @@
 
   <div class="collapse navbar-collapse" id="main-navbar">
     <ul class="navbar-nav ml-auto">
+      <li class="nav-item">
+        <button class="nav-link theme-toggle" id="theme-toggle" type="button" aria-label="Switch to dark mode" aria-pressed="false">
+          <i class="fas fa-sun theme-icon theme-icon-sun" aria-hidden="true"></i>
+          <i class="fas fa-moon theme-icon theme-icon-moon" aria-hidden="true"></i>
+        </button>
+      </li>
       {%- for link in site.navbar-links -%}
         {%- if link[1].first %}
           <li class="nav-item dropdown">

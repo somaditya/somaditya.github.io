@@ -1,0 +1,49 @@
+---
+layout: page
+title: Résumé
+subtitle: View or download my résumé.
+full-width: true
+---
+
+<section class="resume-page" aria-labelledby="resume-heading">
+  <h1 id="resume-heading" class="sr-only">Résumé</h1>
+  <p>
+    <a class="btn btn-primary resume-download" href="{{ '/assets/docs/Somaditya_Basak_Resume.pdf' | relative_url }}" download>
+      <i class="fas fa-download" aria-hidden="true"></i>
+      Download PDF
+    </a>
+  </p>
+
+  <iframe
+    class="resume-viewer"
+    src="{{ '/assets/docs/Somaditya_Basak_Resume.pdf' | relative_url }}"
+    title="Somaditya Basak résumé PDF"
+  >
+    <p>
+      Your browser cannot display embedded PDFs.
+      <a href="{{ '/assets/docs/Somaditya_Basak_Resume.pdf' | relative_url }}">Download the résumé PDF</a>.
+    </p>
+  </iframe>
+</section>
+
+<style>
+  .resume-download {
+    font-family: var(--header-font);
+  }
+
+  .resume-viewer {
+    display: block;
+    width: 100%;
+    height: min(78vh, 70rem);
+    min-height: 35rem;
+    border: 1px solid rgba(128, 128, 128, 0.3);
+    border-radius: 0.25rem;
+  }
+
+  @media (max-width: 600px) {
+    .resume-viewer {
+      height: 70vh;
+      min-height: 28rem;
+    }
+  }
+</style>

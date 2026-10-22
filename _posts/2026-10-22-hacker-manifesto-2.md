@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Hacker's Manifesto 2.0
+title: Hacker Manifesto 2.0
 subtitle: The Conscience of a Hacker
 comments: false
 author: 5n0w_cr45h

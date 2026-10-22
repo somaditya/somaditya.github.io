@@ -1,0 +1,76 @@
+---
+layout: page
+title: Portfolio
+subtitle: Open-sourced repositories, ranked by commits.
+full-width: true
+css:
+  - "/assets/css/portfolio.css"
+---
+
+<section class="portfolio-shell" aria-labelledby="portfolio-heading">
+  <header class="portfolio-intro">
+    <p class="portfolio-eyebrow">Built in public</p>
+    <h1 id="portfolio-heading">Selected projects</h1>
+    <p>
+      Explore my most committed public GitHub projects. Repository stats refresh
+      automatically whenever this site is built.
+    </p>
+  </header>
+
+  <div class="portfolio-grid" aria-label="Top GitHub projects">
+    {% for project in site.github_projects limit:9 %}
+    <a
+      class="portfolio-card"
+      href="{{ project.html_url | escape }}"
+      target="_blank"
+      rel="noopener noreferrer"
+    >
+      <div class="portfolio-card-heading">
+        <span class="portfolio-repo-icon" aria-hidden="true"
+          ><i class="fab fa-github"></i
+        ></span>
+        <h2>{{ project.name | escape }}</h2>
+        <span class="portfolio-card-arrow" aria-hidden="true"
+          ><i class="fas fa-arrow-up-right-from-square"></i
+        ></span>
+      </div>
+
+      <p class="portfolio-description">
+        {{ project.description | default: "No description provided." | escape }}
+      </p>
+
+      {% if project.language %}
+      <span class="portfolio-language">{{ project.language | escape }}</span>
+      {% endif %}
+
+      <dl class="portfolio-stats">
+        <div>
+          <dt><i class="fas fa-star" aria-hidden="true"></i> Stars</dt>
+          <dd>{{ project.stargazers_count }}</dd>
+        </div>
+        <div>
+          <dt><i class="fas fa-code-fork" aria-hidden="true"></i> Forks</dt>
+          <dd>{{ project.forks_count }}</dd>
+        </div>
+        <div>
+          <dt><i class="fas fa-code-commit" aria-hidden="true"></i> Commits</dt>
+          <dd>{{ project.commits_count }}</dd>
+        </div>
+      </dl>
+    </a>
+    {% else %}
+    <p>No public projects were found.</p>
+    {% endfor %}
+  </div>
+
+  <p class="portfolio-updated">
+    Project data is fetched from
+    <a
+      href="https://github.com/somaditya"
+      target="_blank"
+      rel="noopener noreferrer"
+      >GitHub</a
+    >
+    at build time. Commit totals cover each repository's default branch.
+  </p>
+</section>

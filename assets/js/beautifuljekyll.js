@@ -34,6 +34,7 @@ let BeautifulJekyllJS = {
     BeautifulJekyllJS.initImgs();
 
     BeautifulJekyllJS.initSearch();
+    BeautifulJekyllJS.initThemeToggle();
   },
 
   initNavbar : function() {
@@ -138,6 +139,30 @@ let BeautifulJekyllJS = {
         $("#beautifuljekyll-search-overlay").hide();
         $("body").removeClass("overflow-hidden");
       }
+    });
+  },
+
+  initThemeToggle : function() {
+    const toggle = document.getElementById("theme-toggle");
+    if (!toggle) {
+      return;
+    }
+
+    const setTheme = function(theme) {
+      const isDark = theme === "dark";
+      document.documentElement.dataset.theme = isDark ? "dark" : "light";
+      toggle.setAttribute("aria-pressed", isDark.toString());
+      toggle.setAttribute("aria-label", isDark ? "Switch to light mode" : "Switch to dark mode");
+    };
+
+    setTheme(document.documentElement.dataset.theme);
+
+    toggle.addEventListener("click", function() {
+      const theme = document.documentElement.dataset.theme === "dark" ? "light" : "dark";
+      setTheme(theme);
+      try {
+        localStorage.setItem("site-theme", theme);
+      } catch (error) {}
     });
   }
 };
