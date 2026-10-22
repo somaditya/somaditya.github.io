@@ -17,7 +17,7 @@ I’m particularly interested in the intersection of software engineering, AI ag
 I’m currently pursuing an M.S. in Computer Science (Artificial Intelligence) at Georgia Tech, building on my industry experience with continued work in algorithms, programming, and AI.
 
 Core strengths:
-Java • Python • SQL • Spring Boot • Microservices • REST/SOAP • AWS • Docker • Databases • Automation • Software Testing • AI Agent Evaluation • Agentic Coding Tools • Git/Linux/Bash
+Java • Python • SQL • Spring Boot • Microservices • REST • SOAP • AWS • Docker • Databases • Automation • Software Testing • AI Agent Evaluation • Agentic Coding Tools • Git • Linux • Bash scripting
 
 What I bring: a combination of hands-on software engineering experience, systems thinking, debugging and automation skills, and a growing specialization in agentic AI.
 
@@ -25,4 +25,4 @@ What I bring: a combination of hands-on software engineering experience, systems
 
 [Email](mailto:som@gatech.edu)  
 [LinkedIn](https://www.linkedin.com/in/somadityabasak/)  
-[X](https://x.com/5n0w_cr45h)  
+[X](https://x.com/5n0w_cr45h)
