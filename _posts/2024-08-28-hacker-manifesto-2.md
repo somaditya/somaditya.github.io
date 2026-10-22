@@ -44,7 +44,7 @@ I am a hacker[^2] and this is my manifesto.
 [^1]: [Farewell to Aaron Swartz, an Extraordinary Hacker and Activist &#124; Electronic Frontier Foundation](https://www.eff.org/deeplinks/2013/01/farewell-aaron-swartz)
 
 [^2]:
-    From the [Jargon File (version 4.4.7)](http://www.catb.org/jargon/html/index.html).
+    From the [Jargon File (version 4.4.7)](http://www.catb.org/jargon/html/index.html):
 
     **hacker** /n./
 
