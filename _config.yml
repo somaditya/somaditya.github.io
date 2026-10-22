@@ -22,9 +22,6 @@ author: © Somaditya Basak
 navbar-links:
   About Me: "aboutme"
   Portfolio: "portfolio"
-  Blog: "blog"
-  Album: "album"
-  Author's home: "https://www.somaditya.com/"
 
 ################
 # --- Logo --- #
@@ -41,7 +38,6 @@ round-avatar: true
 # then specify the following parameter
 #title-img: /path/to/image
 
-
 #####################################
 # --- Footer social media links --- #
 #####################################
@@ -51,33 +47,33 @@ round-avatar: true
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
   email: "som@gatech.edu"
-  rss: true  # remove this line if you don't want to show an RSS link at the bottom
-#  facebook: deanattali
+  rss: true # remove this line if you don't want to show an RSS link at the bottom
+  #  facebook: deanattali
   github: somaditya
   twitter: 5n0w_cr45h
-#  patreon: DeanAttali
-#  youtube: "@daattali"
-#  whatsapp: (+91)8240153060
-#  medium: yourname
-#  reddit: yourname or r/yoursubreddit
+  #  patreon: DeanAttali
+  #  youtube: "@daattali"
+  #  whatsapp: (+91)8240153060
+  #  medium: yourname
+  #  reddit: yourname or r/yoursubreddit
   linkedin: somadityabasak
-#  xing: yourname
-#  stackoverflow: "3943160/daattali"
-#  snapchat: deanat78
-#  instagram: deanat78
-#  spotify: yourname
-#  telephone: (+91)8240153060
-#  steam: somaditya1337
-#  twitch: yourname
-#  yelp: yourname
-#  telegram: yourname
-#  calendly: yourname
-#  mastodon: instance.url/@username
-#  bluesky: yourname
-#  ORCID: your ORCID ID
-#  google-scholar: your google scholar
-#  discord: "invite_code" or "users/userid" or "invite/invite_code"
-#  kaggle: yourname
+  #  xing: yourname
+  #  stackoverflow: "3943160/daattali"
+  #  snapchat: deanat78
+  #  instagram: deanat78
+  #  spotify: yourname
+  #  telephone: (+91)8240153060
+  #  steam: somaditya1337
+  #  twitch: yourname
+  #  yelp: yourname
+  #  telegram: yourname
+  #  calendly: yourname
+  #  mastodon: instance.url/@username
+  #  bluesky: yourname
+  #  ORCID: your ORCID ID
+  #  google-scholar: your google scholar
+  #  discord: "invite_code" or "users/userid" or "invite/invite_code"
+  #  kaggle: yourname
   hackerrank: somaditya
 #  gitlab: yourname
 #  itchio: yourname
@@ -271,16 +267,14 @@ kramdown:
 
 # Default YAML values (more information on Jekyll's site)
 defaults:
-  -
-    scope:
+  - scope:
       path: ""
       type: "posts"
     values:
       layout: "post"
-      comments: false  # add comments to all blog posts
+      comments: false # add comments to all blog posts
       social-share: true # add social media sharing buttons to all blog posts
-  -
-    scope:
+  - scope:
       path: "" # any file that's not a post will be a "page" layout by default
     values:
       layout: "page"
@@ -302,4 +296,3 @@ plugins:
 
 # Beautiful Jekyll / Dean Attali
 # 2fc73a3a967e97599c9763d05e564189
-
