@@ -26,7 +26,7 @@ The conformist crowd could never accept our divergence. We fought and we suffere
 
 ![graph](/assets/img/graph.png){: .mx-auto.d-block :}
 
-They could stop a few of us but they could not stop us all.[^2]
+They could stop a few of us but they could not stop us all.[^aaron-swartz]
 
 ![aaron](/assets/img/aaron.jpg){: .mx-auto.d-block :}
 
@@ -35,13 +35,13 @@ My crime is that of curiosity.
 
 ![anonymous](/assets/img/anonymous.jpg){: .mx-auto.d-block :}
 
-I am a hacker[^1] and this is my manifesto.
+I am a hacker[^hacker-definition] and this is my manifesto.
 
 > Inspired by the original [The Conscience of a Hacker](https://phrack.org/issues/7/hackers-manifesto) published by Phrack Magazine in 1986.
 
 ---
 
-[^1]:
+[^hacker-definition]:
     **Definition of a Hacker:**  
     (from the Jargon File 4.0.0)  
     **hacker** /n./
@@ -66,4 +66,4 @@ I am a hacker[^1] and this is my manifesto.
 
     Note that the media have a disturbing tendency to use the deprecated sense 8. When I use the word to refer to people, I'm using the other senses...
 
-[^2]: [Farewell to Aaron Swartz, an Extraordinary Hacker and Activist | Electronic Frontier Foundation](https://www.eff.org/deeplinks/2013/01/farewell-aaron-swartz)
+[^aaron-swartz]: [Farewell to Aaron Swartz, an Extraordinary Hacker and Activist | Electronic Frontier Foundation](https://www.eff.org/deeplinks/2013/01/farewell-aaron-swartz)
