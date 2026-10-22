@@ -115,7 +115,7 @@ module Jekyll
         end
         if response.code == "403" && message.to_s.downcase.include?("rate limit exceeded")
           raise ApiError,
-            "GitHub API rate limit exceeded. Authenticate with `gh auth login` or set GITHUB_TOKEN or GH_TOKEN to a GitHub token, then rebuild. If already authenticated, wait for the rate limit to reset."
+            "GitHub API rate limit exceeded. Authenticate with `gh auth login` or set PORTFOLIO_GITHUB_TOKEN, GITHUB_TOKEN, or GH_TOKEN to a GitHub token, then rebuild. If already authenticated, wait for the rate limit to reset."
         end
 
         detail = message ? ": #{message}" : ""
@@ -131,7 +131,9 @@ module Jekyll
       return @github_token if @github_token_loaded
 
       @github_token_loaded = true
-      @github_token = ENV.values_at("GITHUB_TOKEN", "GH_TOKEN").find { |value| !value.to_s.strip.empty? }
+      @github_token = ENV.values_at("PORTFOLIO_GITHUB_TOKEN", "GITHUB_TOKEN", "GH_TOKEN").find do |value|
+        !value.to_s.strip.empty?
+      end
       @github_token ||= github_cli_token
     end
 

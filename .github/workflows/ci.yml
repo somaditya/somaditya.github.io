@@ -1,5 +1,7 @@
 name: Beautiful Jekyll CI
 on: [push, pull_request]
+permissions:
+  contents: read
 jobs:
   build:
     name: Build Jekyll
@@ -21,7 +23,7 @@ jobs:
       - name: Build site
         env:
           JEKYLL_ENV: production
-          GITHUB_TOKEN: ${{ github.token }}
+          PORTFOLIO_GITHUB_TOKEN: ${{ secrets.PORTFOLIO_GITHUB_TOKEN || github.token }}
         run: bundle exec appraisal jekyll build --future --config _config_ci.yml,_config.yml
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
