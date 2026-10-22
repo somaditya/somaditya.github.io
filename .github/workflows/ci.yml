@@ -27,3 +27,18 @@ jobs:
         run: bundle exec appraisal jekyll build --future --config _config_ci.yml,_config.yml
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
+
+  deploy:
+    if: github.event_name == 'push' && github.ref == 'refs/heads/master'
+    needs: build
+    runs-on: ubuntu-latest
+    permissions:
+      pages: write
+      id-token: write
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
