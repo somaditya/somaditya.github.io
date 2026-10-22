@@ -37,7 +37,7 @@ My crime is that of curiosity.
 
 I am a hacker[^1] and this is my manifesto.
 
-> Inspired by the original "[The Conscience of a Hacker](https://phrack.org/issues/7/hackers-manifesto)" published on _phrack_ in 1986.
+> Inspired by the original [The Conscience of a Hacker](https://phrack.org/issues/7/hackers-manifesto) published by Phrack Magazine in 1986.
 
 ---
 
