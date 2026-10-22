@@ -1,6 +1,7 @@
 # Beautiful Jekyll
 
 [![Gem Version](https://badge.fury.io/rb/beautiful-jekyll-theme.svg)](https://badge.fury.io/rb/beautiful-jekyll-theme)
+[![Beautiful Jekyll CI](https://github.com/somaditya/somaditya.github.io/actions/workflows/ci.yml/badge.svg)](https://github.com/somaditya/somaditya.github.io/actions/workflows/ci.yml)
 
 > By [Dean Attali](https://deanattali.com) &middot; [Demo](https://beautifuljekyll.com/)
 
