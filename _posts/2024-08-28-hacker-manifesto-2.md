@@ -10,7 +10,7 @@ It happened one night, a portal opened to a whole new world...
 
 ![fiberoptic](/assets/img/fiberopt.png){: .mx-auto.d-block :}
 
-Streaming through the optical fibers like amphetamines in an addict’s brain, a binary signal was transmitted over a router, and a refuge from our hopeless existence was found at last.
+Streaming through the optical fibers like amphetamines inside an addict's brain, a binary signal was transmitted over a router, and a refuge from our hopeless existence was found at last.
 
 ![wireshark](/assets/img/wireshark.png){: .mx-auto.d-block :}
 
