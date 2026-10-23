@@ -1,7 +1,8 @@
-# somaditya.com
-
+# 👨🏻‍💻 somaditya.com
+### Built with ❤️ using [Beautiful Jekyll](https://beautifuljekyll.com/)
 [![Gem Version](https://badge.fury.io/rb/beautiful-jekyll-theme.svg)](https://badge.fury.io/rb/beautiful-jekyll-theme)
 [![Beautiful Jekyll CI](https://github.com/somaditya/somaditya.github.io/actions/workflows/ci.yml/badge.svg)](https://github.com/somaditya/somaditya.github.io/actions/workflows/ci.yml)
+[![pages-build-deployment](https://github.com/somaditya/somaditya.github.io/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/somaditya/somaditya.github.io/actions/workflows/pages/pages-build-deployment)
 
 > [Live Site](https://somaditya.com/)
 
