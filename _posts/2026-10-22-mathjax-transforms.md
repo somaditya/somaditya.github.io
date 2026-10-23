@@ -7,6 +7,8 @@ mathjax: true
 tags: [math, mathjax, transforms]
 ---
 
+![fourier](/assets/img/fourier.jpg){: .mx-auto.d-block :}
+
 This sample post demonstrates inline and display equations rendered with MathJax. For example, Euler's identity is \(e^{i\pi} + 1 = 0\), and the Gaussian integral is
 
 $$
@@ -45,7 +47,7 @@ $$
 $$
 
 The convolution theorem turns convolution into pointwise multiplication. With
-\((f * g)(t) = \int_{-\infty}^{\infty} f(\tau)g(t-\tau)\,d\tau\), it reads
+\((f \* g)(t) = \int\_{-\infty}^{\infty} f(\tau)g(t-\tau)\,d\tau\), it reads
 
 $$
 \mathcal{F}\{f*g\}(\omega)
@@ -101,7 +103,7 @@ $$
 $$
 
 transform in \(x\), using frequency \(\xi\). Since
-\(\mathcal{F}_x\{\partial_x^2 u\}=-\xi^2\widehat{u}\), the equation becomes
+\(\mathcal{F}\_x\{\partial_x^2 u\}=-\xi^2\widehat{u}\), the equation becomes
 
 $$
 \frac{\partial \widehat{u}}{\partial t}

@@ -6,35 +6,35 @@ comments: false
 author: 5n0w_cr45h
 ---
 
-Many many nights ago...  
-a portal had opened to a whole new world.
+Many, many nights ago…  
+A portal opened to a whole new world.
 
 ![fiberoptic](/assets/img/fiberopt.png){: .mx-auto.d-block :}
 
 Streaming through the optical fibers  
-like amphetamines inside an addict's brain,  
-a binary signal was transmitted over a router.  
-Seeking refuge from a hollow existence...  
-a platform was finally found.
+like amphetamines inside an addict’s brain,  
+a binary signal was transmitted via a router.  
+Seeking refuge from a hollow existence…  
+A platform was finally found.
 
 ![wireshark](/assets/img/wireshark.png){: .mx-auto.d-block :}
 
-This is it... this is where we belong.  
+This is it… this is where we belong.  
 A parallel universe composed of circuits and chips.
 
 ![circuit](/assets/img/circuit.png){: .mx-auto.d-block :}
 
-The breath-taking poetry hiding behind the code.
+The breathtaking poetry hiding behind the code.
 
 ![assembly](/assets/img/assembly.png){: .mx-auto.d-block :}
 
 The conformist crowd could never accept our divergence.  
 Ostracized as weirdos and nerds, we got bullied and we suffered,  
-but never did our tribe surrender on this limitless path.
+but never did our tribe stray from this limitless path.
 
 ![graph](/assets/img/graph.png){: .mx-auto.d-block :}
 
-They could stop a few of us[^1]  
+They could stop a few of us[^1],  
 but they could not stop us all.
 
 ![aaron](/assets/img/aaron.jpg){: .mx-auto.d-block :}
