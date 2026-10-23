@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Somaditya Basak
+title: About Me
 subtitle: Independent Contractor for Agentic Software Engineering
 ---
 
