@@ -36,7 +36,7 @@ but never did our tribe stray from this limitless path.
 
 The industry took what was meant to be free, born of human ingenuity, and chained it behind a paywall. They snatched it from our hands, packaged it, and sold it back to us lining the pockets of their obscene fortunes.
 
-And they call us the criminals.
+And they call us criminals.
 
 The rulers sliced the world into fragments, dividing humanity by the color of our skin, the borders on a map, and the biases of race.
 
