@@ -34,25 +34,31 @@ but never did our tribe stray from this limitless path.
 
 ![graph](/assets/img/graph.png){: .mx-auto.d-block :}
 
-They could stop a few of us[^1],  
-but they could not stop us all.
+The industry took what was meant to be free, born of human ingenuity, and chained it behind a paywall. They snatched it from our hands, packaged it, and sold it back to us lining the pockets of their obscene fortunes.
 
-![aaron](/assets/img/aaron.jpg){: .mx-auto.d-block :}
+And they call us the criminals.
+
+The rulers sliced the world into fragments, dividing humanity by the color of our skin, the borders on a map, and the biases of race.
+
+They build weapons of mass annihilation and bankroll proxy wars that tear innocent children apart, all under the banner of a flag, a god, or a religion, yet we are the criminals.
+
+![anonymous](/assets/img/anonymous.jpg){: .mx-auto.d-block :}
 
 Yes, I am a criminal.  
 My crime is that of curiosity.
 
-![anonymous](/assets/img/anonymous.jpg){: .mx-auto.d-block :}
+I am a hacker[^1] and this is my manifesto.
 
-I am a hacker[^2] and this is my manifesto.
+You could stop a few of us[^2],  
+but you can't stop us all.
+
+![aaron](/assets/img/aaron.jpg){: .mx-auto.d-block :}
 
 > Inspired by [The Conscience of a Hacker](https://phrack.org/issues/7/hackers-manifesto) published by Phrack Magazine in 1986.
 
 ---
 
-[^1]: [Farewell to Aaron Swartz, an Extraordinary Hacker and Activist &#124; Electronic Frontier Foundation](https://www.eff.org/deeplinks/2013/01/farewell-aaron-swartz)
-
-[^2]:
+[^1]:
     **hacker**: /n./  
     A person who enjoys exploring the details of programmable systems and how to stretch their capabilities, as opposed to most users, who prefer to learn only the minimum necessary.
 
@@ -61,3 +67,5 @@ I am a hacker[^2] and this is my manifesto.
     One who enjoys the intellectual challenge of creatively overcoming or circumventing limitations.
 
     Source: [_The Jargon File (version 4.4.7)_](http://www.catb.org/jargon/html/H/hacker.html)
+
+[^2]: [Farewell to Aaron Swartz, an Extraordinary Hacker and Activist &#124; Electronic Frontier Foundation](https://www.eff.org/deeplinks/2013/01/farewell-aaron-swartz)
