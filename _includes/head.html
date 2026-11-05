@@ -2,12 +2,12 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
   <script>
-    document.documentElement.classList.add("page-dark-mode");
+    const defaultTheme = "{{ site.default-theme | default: 'light' }}";
+    let theme = defaultTheme;
     try {
-      if (localStorage.getItem("site-theme") === "light") {
-        document.documentElement.classList.remove("page-dark-mode");
-      }
+      theme = localStorage.getItem("site-theme") || defaultTheme;
     } catch (error) {}
+    document.documentElement.classList.toggle("page-dark-mode", theme === "dark");
   </script>
 
   {% capture pagetitle %}

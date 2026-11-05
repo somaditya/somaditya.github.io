@@ -126,11 +126,14 @@ edit_page_button: false
 navbar-var-length: false
 
 # The keywords to associate with your website, for SEO purposes
-keywords: "somaditya,basak,ai,agentic,software,engineering,independent,contractor,claude,code,gemini-cli,codex"
+keywords: "somaditya,basak,ai,artificial-intelligence,agentic,software,engineering,independent-contractor,claude-code,gemini-cli,openai-codex"
 
 ######################################
 # --- Colours / background image --- #
 ######################################
+
+# Default theme for visitors without a saved preference: "light" or "dark"
+default-theme: "light"
 
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
