@@ -37,6 +37,7 @@ but never did our tribe surrender this limitless craft.
 The industry took what was meant to be free,  
 born of human ingenuity,  
 and chained it behind a paywall.  
+
 They snatched it from our hands,  
 packaged it, and sold it back to us  
 lining the pockets of their obscene fortunes.  
