@@ -34,14 +34,23 @@ but never did our tribe surrender this limitless craft.
 
 ![graph](/assets/img/graph.png){: .mx-auto.d-block :}
 
-The industry took what was meant to be free, born of human ingenuity, and chained it behind a paywall.  
-They snatched it from our hands, packaged it, and sold it back to us lining the pockets of their obscene fortunes.  
+The industry took what was meant to be free,  
+born of human ingenuity,  
+and chained it behind a paywall.  
+They snatched it from our hands,  
+packaged it, and sold it back to us  
+lining the pockets of their obscene fortunes.  
 
 And they call us criminals.  
 
-The rulers sliced the world into fragments, dividing humanity by the color of our skin, the borders on a map, and the biases of race.  
+The rulers sliced the world into fragments,  
+dividing humanity by the color of our skin,  
+the borders on a map, and the biases of race.  
 
-They build weapons of mass annihilation and bankroll proxy wars that tear innocent children apart, all under the banner of a flag, a god, or a religion, yet we are the criminals.
+They build weapons of mass annihilation  
+and bankroll proxy wars that tear innocent children apart,  
+all under the banner of a flag, some god, or a religion,  
+yet we are the criminals.
 
 ![anonymous](/assets/img/anonymous.jpg){: .mx-auto.d-block :}
 
