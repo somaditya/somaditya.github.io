@@ -133,7 +133,7 @@ keywords: "somaditya,basak,ai,artificial-intelligence,agentic,software,engineeri
 ######################################
 
 # Default theme for visitors without a saved preference: "light" or "dark"
-default-theme: "light"
+default-theme: "dark"
 
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
