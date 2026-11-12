@@ -13,7 +13,7 @@ A portal opened to a whole new world.
 
 Streaming through the optical fibers  
 like amphetamines inside an addict’s brain,  
-a binary signal was transmitted via a router.  
+a binary signal was transmitted via a router.
 
 ![wireshark](/assets/img/wireshark.png){: .mx-auto.d-block :}
 
