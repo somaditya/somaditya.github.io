@@ -44,7 +44,7 @@ And they call us criminals.
 ![jstor](/assets/img/jstor.jpg){: .mx-auto.d-block :}
 
 The rulers divided us using skin color, nationalities and some god-damned religions,  
-while they built nuclear bombs and financed wars that tear innocent children apart,  
+while they built nuclear weapons and financed wars that tear innocent children apart,  
 yet we are the criminals.
 
 ![gaza](/assets/img/gaza.png){: .mx-auto.d-block :}
