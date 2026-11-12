@@ -43,7 +43,7 @@ And they call us criminals.
 
 ![jstor](/assets/img/jstor.jpg){: .mx-auto.d-block :}
 
-The rulers divided us using skin color, nationalities and some god-damned religions  
+The rulers divided us using skin color, nationalities and some god-damned religions,  
 while they built nuclear bombs and financed wars that tear innocent children apart,  
 yet we are the criminals.
 
@@ -54,11 +54,15 @@ My crime is that of curiosity.
 
 I am a hacker[^1] and this is my manifesto.
 
-![aaron](/assets/img/aaron.jpg){: .mx-auto.d-block :}
-
 You could stop a few of us[^2], but you can't stop us all.
 
-![anonymous](/assets\img\anonymous.png){: .mx-auto.d-block :}
+![aaron](/assets/img/aaron.jpg){: .mx-auto.d-block :}
+
+We are anonymous.  
+We are legion.  
+We do not forgive.  
+We do not forget.  
+Expect us…
 
 > Inspired by [The Conscience of a Hacker](https://phrack.org/issues/7/hackers-manifesto) published by Phrack Magazine in 1986.
 
