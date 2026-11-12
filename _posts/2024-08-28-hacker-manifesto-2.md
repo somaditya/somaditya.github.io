@@ -36,21 +36,21 @@ but never did our tribe surrender this limitless craft.
 
 The industry gobbled up knowledge that was meant to be free,  
 born of human ingenuity,  
-and chained it behind a paywall.  
+and chained it behind a paywall.
 
 ![books](/assets/img/books.png){: .mx-auto.d-block :}
 
 They snatched it from our hands,  
 packaged it, and sold it back to us  
-lining the pockets of their obscene fortunes.  
+lining the pockets of their obscene fortunes.
 
-And they call us criminals.  
+And they call us criminals.
 
 ![jstor](/assets/img/jstor.jpg){: .mx-auto.d-block :}
 
 The rulers sliced the world into fragments,  
 dividing humanity by the color of our skin,  
-the borders on a map, and the biases of race.  
+the borders on a map, and the biases of race.
 
 ![gaza](/assets/img/gaza.png){: .mx-auto.d-block :}
 
@@ -68,6 +68,8 @@ I am a hacker[^1] and this is my manifesto.
 
 You could stop a few of us[^2],  
 but you can't stop us all.
+
+We do not forget. We do not forgive. Expect us...
 
 ![aaron](/assets/img/aaron.jpg){: .mx-auto.d-block :}
 
