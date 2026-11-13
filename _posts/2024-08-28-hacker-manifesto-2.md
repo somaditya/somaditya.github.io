@@ -34,7 +34,7 @@ but never did our tribe surrender this limitless craft.
 
 ![graph](/assets/img/graph.png){: .mx-auto.d-block :}
 
-The industry gobbled up knowledge that was meant to be free,  
+The industry gobbled up knowledge that was meant to be freely accessible,  
 and sold it back to us stuffing the vaults of their obscene fortunes.
 
 ![books](/assets/img/books.png){: .mx-auto.d-block :}
@@ -54,14 +54,11 @@ My crime is that of curiosity.
 
 I am a hacker[^1] and this is my manifesto.
 
-You could stop a few of us[^2], but you can't stop us all.
-
 ![aaron](/assets/img/aaron.jpg){: .mx-auto.d-block :}
 
-We are anonymous.  
-We are legion.  
-We do not forgive.  
-We do not forget.  
+You could stop a few of us[^2], but you can't stop us all.  
+We are legion. We do not forgive. We do not forget.
+
 Expect us…
 
 > Inspired by [The Conscience of a Hacker](https://phrack.org/issues/7/hackers-manifesto) published by Phrack Magazine in 1986.
